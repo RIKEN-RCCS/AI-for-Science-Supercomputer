@@ -209,8 +209,9 @@ A textual catalog (subject to revision; tracks the deployed image):
 
 ### RAG · Agent Foundation
 
-- **Gateway · RAG:** [RiVault](https://github.com/RIKEN-RCCS/RiVault)
-  (RIKEN LLM gateway) · [RagFlow](https://ragflow.io/) · [LlamaIndex](https://www.llamaindex.ai/) · [Haystack](https://haystack.deepset.ai/) · [Hatch](https://hatch.readthedocs.io/en/latest/)
+- **Gateway:** [RiVault](https://github.com/RIKEN-RCCS/RiVault) (RIKEN LLM gateway)
+- **RAG:** [RagFlow](https://ragflow.io/) · [LlamaIndex](https://www.llamaindex.ai/) · [Haystack](https://haystack.deepset.ai/)
+- **MCP management:** [Hatch](https://hatch.readthedocs.io/en/latest/)
 - **Agent frameworks:** [LangGraph](https://langchain-ai.github.io/langgraph/) · [Pydantic AI](https://ai.pydantic.dev/) · [NeMo Guardrails](https://docs.nvidia.com/nemo/guardrails/latest/) ·
   [Inspect AI](https://inspect.aisi.org.uk) · [Open Agent Platform](https://github.com/langchain-ai/open-agent-platform) · LS-DX Co-Scientist (drug discovery)
 
